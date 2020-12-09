@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+        printf("Hello World...");
+        
+        printf("simple code to display Hello World... in C Language")
+}
